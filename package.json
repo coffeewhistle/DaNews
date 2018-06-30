@@ -1,0 +1,28 @@
+{
+  "name": "DaNews",
+  "version": "1.0.0",
+  "description": "The top news from around the world. I didn't write any of it, obviously. But still. It's news. You love news. You can't get enough of the news. It's like a car crash that keeps making other cars crash. Like watching a terrible hurricane destroy a city from halfway around the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coffeewhistle/DaNews.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coffeewhistle/DaNews/issues"
+  },
+  "homepage": "https://github.com/coffeewhistle/DaNews#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.1.7",
+    "request": "^2.87.0"
+  }
+}
